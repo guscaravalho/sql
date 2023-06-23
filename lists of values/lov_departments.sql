@@ -1,0 +1,30 @@
+SELECT '01 County Board' AS department FROM DUAL
+UNION SELECT '02 County Manager' FROM DUAL
+UNION SELECT '03 Management and Finance' FROM DUAL
+UNION SELECT '04 Civil Service Commission' FROM DUAL
+UNION SELECT '05 Human Resources' FROM DUAL
+UNION SELECT '06 Technology Services' FROM DUAL
+UNION SELECT '07 County Attorney' FROM DUAL
+UNION SELECT '08 Commissioner of Revenue' FROM DUAL
+UNION SELECT '09 Treasurer' FROM DUAL
+UNION SELECT '10 Registrar' FROM DUAL
+UNION SELECT '11 Circuit Court Judiciary' FROM DUAL
+UNION SELECT '12 Circuit Court Clerk' FROM DUAL
+UNION SELECT '13 District Court' FROM DUAL
+UNION SELECT '14 Juvenile / Domestic Court' FROM DUAL
+UNION SELECT '15 Commonwealth''s Attorney' FROM DUAL
+UNION SELECT '16 Magistrate' FROM DUAL
+UNION SELECT '17 Public Defender' FROM DUAL
+UNION SELECT '18 Sheriff' FROM DUAL
+UNION SELECT '19 Police' FROM DUAL
+UNION SELECT '20 Emergency Management' FROM DUAL
+UNION SELECT '21 Fire' FROM DUAL
+UNION SELECT '22 Environmental Services' FROM DUAL
+UNION SELECT '23 Human Services' FROM DUAL
+UNION SELECT '24 Libraries' FROM DUAL
+UNION SELECT '25 Economic Development' FROM DUAL
+UNION SELECT '26 Planning and Housing' FROM DUAL
+UNION SELECT '27 Parks and Recreation' FROM DUAL
+UNION SELECT '28 Non-Departmental' FROM DUAL
+UNION SELECT '29 Schools' FROM DUAL
+UNION SELECT '30 Retirement' FROM DUAL

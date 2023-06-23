@@ -1,0 +1,3 @@
+SELECT 'Open' AS status FROM DUAL
+UNION SELECT 'Closed' FROM DUAL
+UNION SELECT 'Finally Closed' FROM DUAL

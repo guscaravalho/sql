@@ -1,0 +1,3 @@
+SELECT 'Expired' FROM DUAL 
+UNION SELECT 'Expiring Soon' FROM DUAL 
+UNION SELECT '90+ Days Remaining' FROM DUAL

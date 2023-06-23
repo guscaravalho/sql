@@ -1,0 +1,2 @@
+SELECT 'Active' FROM DUAL
+UNION SELECT 'Not Active' FROM DUAL

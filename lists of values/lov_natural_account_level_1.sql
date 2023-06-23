@@ -1,0 +1,5 @@
+SELECT '1 Asset' AS natural_account_level_1 FROM DUAL
+UNION SELECT '2 Liability' FROM DUAL
+UNION SELECT '3 Revenue' FROM DUAL
+UNION SELECT '4 Expenditure' FROM DUAL
+UNION SELECT '5 Owner''s Equity' FROM DUAL

@@ -1,0 +1,2 @@
+SELECT 'Expired' FROM DUAL
+UNION SELECT 'Not Expired' FROM DUAL

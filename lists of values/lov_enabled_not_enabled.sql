@@ -1,0 +1,2 @@
+SELECT 'Enabled' FROM DUAL
+UNION SELECT 'Not Enabled' FROM DUAL
